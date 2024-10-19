@@ -19,6 +19,32 @@ In our project some mistakes will be on purpose made to see how will deal with t
 
 1) Read Range Work BooK Activity
 
+# PROCEDURES
+
+In the first experiment, The Read range workbook will be entered and an Excel file name will be placed that is not included in the project file.
+
+![image](https://github.com/user-attachments/assets/5e9fe409-e822-4937-8925-e66dd6bad745)
+
+From the properties panel window, the output of the Data table type is stored
+
+![image](https://github.com/user-attachments/assets/7e2734c8-caae-454b-b28f-394cc03ee0d2)
+
+.
+
+
+![image](https://github.com/user-attachments/assets/40aa9747-cc06-4e71-a3dc-a8ef66cbf441)
+
+#Result
+
+As a result, the message box will print the exception type
+
+![image](https://github.com/user-attachments/assets/b0e18026-c2d1-4032-bea4-904688bc2a7a)
+
+[Click here](https://drive.google.com/file/d/16EM6A0Z0Z60t9fCOAZfiwfkDX41XWFVX/view?usp=drive_link)
+
+
+
+
 
 
 
