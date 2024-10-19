@@ -1,4 +1,4 @@
-# 
+# OBJECTIVE 
 There are three ways to deal with errors and exceptions in uipath
 1) Using Continue on Exception tool in Debug tap.
    
@@ -35,13 +35,22 @@ From the properties panel window, the output of the Data table type is stored
 
 ![image](https://github.com/user-attachments/assets/40aa9747-cc06-4e71-a3dc-a8ef66cbf441)
 
-#Result
+# RESULT
 
 As a result, the message box will print the exception type
 
 ![image](https://github.com/user-attachments/assets/b0e18026-c2d1-4032-bea4-904688bc2a7a)
 
 [Click here](https://drive.google.com/file/d/16EM6A0Z0Z60t9fCOAZfiwfkDX41XWFVX/view?usp=drive_link)
+
+# CONCLUSION
+
+Exception in UiPath is a general error that occurs when an unexpected problem arises during the execution of a workflow. It can result from various issues such as runtime errors, system failures, or unexpected conditions
+
+
+
+<img src="https://github.com/user-attachments/assets/43378826-7d60-4ca7-9abf-6d4cc33e69fc" width="500">
+
 
 
 
